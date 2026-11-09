@@ -24,6 +24,7 @@ Kumpulan latihan interaktif dan eksplorasi elemen HTML5/CSS3.
 | **Simple Audio Player** | Eksplorasi elemen `<audio>`, controls, dan multi-track audio. | [`index.html`](./responsive-web-design/practice/simple-audio-player/index.html) |
 | **Simple Video Player** | Eksplorasi elemen `<video>`, poster image, multiple format fallback. | [`index.html`](./responsive-web-design/practice/simple-video-player/index.html) |
 | **Travel Agency** | Pembuatan landing page agensi tur dengan semantik HTML5. | [`index.html`](./responsive-web-design/practice/travel-agency/index.html) |
+| **Video & Audio Player** | Eksplorasi integrasi elemen audio dan video dalam satu halaman. | [`index.html`](./responsive-web-design/practice/video-audio-player/index.html) |
 
 ### 🏆 Certification Projects
 5 proyek wajib untuk memperoleh sertifikat **Responsive Web Design**:
