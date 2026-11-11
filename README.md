@@ -25,6 +25,7 @@ Kumpulan latihan interaktif dan eksplorasi elemen HTML5/CSS3.
 | **Simple Video Player** | Eksplorasi elemen `<video>`, poster image, multiple format fallback. | [`index.html`](./responsive-web-design/practice/simple-video-player/index.html) |
 | **Travel Agency** | Pembuatan landing page agensi tur dengan semantik HTML5. | [`index.html`](./responsive-web-design/practice/travel-agency/index.html) |
 | **Video & Audio Player** | Eksplorasi integrasi elemen audio dan video dalam satu halaman. | [`index.html`](./responsive-web-design/practice/video-audio-player/index.html) |
+| **SVG Heart Icon** | Pembuatan ikon hati vektor menggunakan elemen `<svg>` dan `<path>`. | [`index.html`](./responsive-web-design/practice/svg-heart-icon/index.html) |
 
 ### 🏆 Certification Projects
 5 proyek wajib untuk memperoleh sertifikat **Responsive Web Design**:
